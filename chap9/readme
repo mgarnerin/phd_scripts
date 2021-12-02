@@ -1,0 +1,9 @@
+Expérience du chapitre 9 : Sortir de la binarité et du genre 
+
+Ces analyses se basent sur des mesures acoustiques réalisées à l'aide d'un script praat (extract_features_praat). Ce script doit se trouver dans le dossier de données à analyser. Les fichiers résultats ont donc été récupérés dans les différents dossiers de partition de Librispeech. Les trois partitions de train ont ensuite été rassemblées à l'aide du script fusion.sh présent dans le dossier data/acoustic_feats.
+
+L'ensemble des représentations graphiques et des calculs sont rassemblés dans le script R analyses_acoustiques.R
+
+Les gendermaps ayant servi à l'analyse genrée des résultats sont des versions csv des différents fichiers spk2gender produits par la préparation des données Kaldi. 
+
+Les fichiers de WER ont été produits conjointement aux analyses du chapitre 8, nous permettant ainsi de conserver notre granularité de WER au niveau du livre.

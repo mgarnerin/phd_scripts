@@ -1,0 +1,67 @@
+id;lang;dial;#spk;#spk_m;#spk_f;#utt;#utt_m;#utt_f;dur;dur_m;dur_f;sizeGB;size;sampling;task;elicited;provided;found_in;lang_status;year;producer
+SLR1  ;hebrew;;1;1;0;60;60;0;;;;0,006;small;8000;ASR;yes;yes;metadata;Low-resource;NA;Anonymous
+SLR12  ;english;;2484;1283;1201;;;;;506,4;475,9;63,9;large;16000;ASR;no;yes;metadata;High-resource;2015;Center for Language and Speech Processing & Human Language Technology Center of Excellence
+SLR16  ;english;;189;123;66;;;;;;;91,6;large;16000;ASR;yes;yes;metadata;High-resource;2007;AMI Project
+SLR18  ;chinese;;50;9;31;11142;;;35;;;10,2;medium;16000;ASR;yes;yes;paper;High-resource;2015;Center for Speech and Language Technology (CSLT) at Tsinghua University
+SLR22  ;uyghur;;595;289;315;9468;;;23,6;;;3;small;16000;ASR;yes;yes;metadata;Low-resource;2015;Center for Speech and Language Technology (CSLT) 
+SLR24  ;iban;;23;9;14;3132;1750;1382;8;4,3;3,7;0,996;small;16000;ASR;no;yes;paper;Low-resource;NA;LIG
+SLR25  ;wolof;;18;10;8;17998;;;2,4;;;1,5;small;16000;ASR;yes;yes;paper;Low-resource;2016;ALFFA Project
+SLR25  ;swahili;;;;;12169;;;;;;2,6;small;16000;ASR;no;no;NA;Low-resource;2012;ALFFA Project
+SLR25  ;ahmaric;;;;;;;;;;;2,5;small;16000;ASR;yes;no;NA;Low-resource;2005;ALFFA Project
+SLR30  ;sinhala;;12;0;12;1251;0;1251;;;;1,2;small;48000;TTS;yes;no;manually;Low-resource;2016;Google
+SLR32  ;Afrikaans;;9;0;9;2927;0;2927;;;;1,1;small;48000;TTS;yes;no;manually;Low-resource;2017;Google
+SLR32  ;sesotho;;19;0;19;2096;0;2096;;;;1,1;small;44100;TTS;yes;no;manually;Low-resource;2017;Google
+SLR32  ;setswana;;26;0;26;2378;0;2378;;;;1,2;small;48000;TTS;yes;no;manually;Low-resource;2017;Google
+SLR32  ;isiXhosa;;;;;;;;;;;1,1;small;48000;TTS;yes;no;NA;Low-resource;2017;Google
+SLR33  ;chinese;mandarin;400;186;214;;;;;;;15,6;medium;16000;ASR;yes;yes;metadata;High-resource;2017;Beijing Shell Shell Technology Co.,Ltd.
+SLR35  ;javanese;;;;;;;;;;;18,9;medium;16000;ASR;yes;no;NA;Low-resource;2017;Google
+SLR36  ;sundanese;;;;;;;;;;;23;medium;16000;ASR;yes;no;NA;Low-resource;2017;Google
+SLR37  ;bengali;bengladesh;5;5;0;1890;1890;0;;;;1;small;48000;TTS;yes;no;manually;Low-resource;NA;Google
+SLR37  ;bengali;indian;9;8;1;1365;1272;93;;;;0,7;small;48000;TTS;yes;no;manually;Low-resource;NA;Google
+SLR38  ;chinese;mandarin;855;;;102600;;;;;;12,7;medium;16000;NA;yes;yes;metadata;High-resource;NA;Surfingtech
+SLR39  ;spanish;;114;;;;;;;;;2,6;small;22050;ASR;yes;no;NA;High-resource;NA;DFL & CTELL
+SLR40  ;korean;;115;45;70;22720;;;52,8;;;2,9;small;16000;ASR;yes;yes;metadata;High-resource;NA;Lucas Jo(@Atlas Guide Inc.) and Wonkyum Lee(@Gridspace Inc.). 
+SLR41  ;javanese;;39;20;19;5820;2957;2863;;;;2,4;small;48000;TTS;yes;yes;indexed;Low-resource;2018;Google
+SLR42  ;khmer;;16;16;0;2905;2905;0;;;;1,4;small;48000;TTS;yes;yes;indexed;Low-resource;2018;Google
+SLR43  ;nepali;;18;0;18;2063;0;2963;;;;0,967;small;48000;TTS;yes;yes;indexed;Low-resource;2018;Google
+SLR44  ;sundanese;;41;21;20;4211;1811;2400;;;;1,9;small;48000;TTS;yes;yes;indexed;Low-resource;2018;Google
+SLR45  ;english;american;10;5;5;3842;1656;2186;;;;0,547;small;16000;NA;yes;yes;indexed;High-resource;NA;Surfingtech
+SLR46  ;arabic;tunisian;122;;;;;;;;;1,5;small;16000;ASR;yes;no;NA;High-resource;NA;NA
+SLR47  ;chinese;mandarin;296;;;;;;100;;;11,4;medium;16000;ASR;yes;no;NA;High-resource;2018;Primewords Information Technology Co., Ltd.
+SLR51  ;english;;2028;;;268231;;;452;316;134;63,4;large;16000;ASR;no;yes;paper;High-resource;NA;LIUM
+SLR52  ;sinhala;;;;;;;;;;;14,7;medium;16000;ASR;NA;no;NA;Low-resource;2018;Google
+SLR53  ;bengali;;;;;;;;;;;14,6;medium;16000;ASR;NA;no;NA;Low-resource;2018;Google
+SLR54  ;nepali;;;;;;;;;;;9,3;medium;16000;ASR;NA;no;NA;Low-resource;2018;Google
+SLR57  ;french;african;;;;;;;;;;2,3;small;16000;ASR;yes;no;NA;High-resource;NA;CTELL & RDECOM (army)
+SLR58  ;korean;;41;32;10;3091;2128;963;2,8;1,9;0,9;0,175;small;16000;ASR;no;yes;paper;High-resource;2018;Electronics Engineering, Inha University
+SLR59  ;catalan;;;;;;;;320;;;18,2;medium;16000;NA;no;no;NA;Low-resource;NA;Col·lectivaT
+SLR6  ;czech;;;;;;26567;0;18,3;;;2,1;small;16000;ASR;yes;no;NA;High-resource;2014;Charles University in Prague
+SLR6  ;english;;;;;;51463;0;45;;;5,2;medium;16000;ASR;yes;no;NA;High-resource;2014;Charles University in Prague
+SLR61  ;spanish;argentinian;47;13;34;5826;1817;4009;;;;2,8;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR61  ;spanish;peninsular;3;0;3;89;0;89;;;;0,03;small;48000;NA;no;no;manually;High-resource;2019;Google
+SLR62  ;chinese;mandarin;600;;;;;;200;;;18,8;medium;16000;ASR;yes;no;NA;High-resource;NA;Beijing DataTang Technology Co., Ltd.
+SLR63  ;malayalam;;43;18;25;4124;2022;2102;;;;1,9;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR64  ;marathi;;9;0;9;1568;0;1568;;;;1;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR65  ;tamil;;50;25;25;4283;1955;2334;;;;2,4;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR66  ;telugu;;47;23;27;4446;2153;2293;;;;2;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR67  ;spanish;;142;102;40;11243;8376;2867;24,5;18,2;6,3;2,8;small;16000;ASR;no;yes;metadata;High-resource;2019;Universidad Nacional Autonoma de Mexico + CIEMPIESS-UNAM project
+SLR68  ;chinese;mandarin;1080;526;554;;;;755;;;131;large;16000;ASR;yes;yes;metadata;High-resource;2019;Magic Data Technology Co., Ltd.
+SLR69  ;catalan;;36;16;20;4328;1918;2320;;;;3,3;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR70  ;english;nigerian;31;12;19;3357;1313;2044;;;;2;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR71  ;spanish;chilean;31;18;13;4372;2635;1737;;;;2,5;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR72  ;spanish;columbian;33;17;16;4901;2533;2368;;;;2,6;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR73  ;spanish;peruvian;38;20;18;5445;2917;2528;;;;3,2;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR74  ;spanish;puerto rico;5;0;5;616;0;616;;;;0,347;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR75  ;spanish;venezuelan;23;12;11;3355;1753;1602;;;;1,7;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR76  ;basque;;52;23;29;7134;3277;3857;;;;4,8;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR77  ;galician;;44;10;34;5585;1322;4263;;;;3,6;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR78  ;gujarati;;36;18;18;4270;2052;2218;;;;2,7;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR79  ;kannada;;59;36;23;4398;2213;2185;;;;2,9;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR80  ;burmese;;20;0;20;2529;0;2529;;;;1,4;small;48000;NA;yes;yes;indexed;Low-resource;2019;Google
+SLR82  ;chinese;;1000;;;130109;;;274;;;36,9;medium;16000;ASR;no;no;NA;High-resource;2019;Center for Speech and Language Technologies, Tsinghua University
+SLR83  ;english;irish;3;3;0;450;450;0;;;;0,247;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR83  ;english;midlands;5;3;2;696;450;246;;;;0,416;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR83  ;english;northern;19;14;5;2847;2097;750;;;;1,7;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR83  ;english;scottish;17;11;6;2543;1649;894;;;;1,5;small;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR83  ;english;southern;57;29;28;8492;4331;4161;;;;5;medium;48000;NA;yes;yes;indexed;High-resource;2019;Google
+SLR83  ;english;welsh;19;11;8;2848;1650;1198;;;;1,9;small;48000;NA;yes;yes;indexed;High-resource;2019;Google

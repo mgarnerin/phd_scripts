@@ -1,0 +1,9 @@
+Expériences du chapitre 7 : Représentation du genre dans les données de parole
+de la thèse de Mahault GARNERIN
+
+Ce dossier contient l'ensemble des données récupérées (parmi les ressources disponible en novembre 2019) pour notre analyse de la représentation des catégories de genre dans les données disponibles sur la plateforme OpenSLR (http://www.openslr.org).
+
+Le fichier summup_oslr.csv contient l'ensemble des informations récupérées manuellement dans les différentes ressources en suivant la méthodologie décrite dans le manuscrit de thèse.
+
+Le script R openslr.R contient l'ensemble des analyses et des figures mobilisées dans le manuscrit.
+

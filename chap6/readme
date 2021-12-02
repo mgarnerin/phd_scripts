@@ -1,0 +1,12 @@
+Expérience du chapitre 6 : Évaluer le biais prédictif : étude d'un système d'ASR développé sur de la parole médiatique française
+de la thèse de Mahault GARNERIN
+
+Ce dossier contient les données sur lesquelles ont été conduites nos analyses, à savoir les sorties du système d'ASR HMM-DNN développé par Elloumi et al. (2018) ainsi que des méta-données sur les émissions et locuteurs et locutrices. Pour des informations supplémentaires sur le calcul des rôles des locuteurs et locutrices, se référer au mémoire de master (Garnerin, 2018).
+
+Le dossier script_python contient les scripts de pre-processing des données :
+Le fichier eval_data.csv contient les sorties du systèmes d'Elloumi et al. (2018)
+1. les scripts class_definition_train.py & class_definition_test.py permettent de calculer les rôles des locuteurs et locutrices en suivant la méthodologie décrite dans le manuscrit (voir Chapitre 5) et utilisent les fichiers de mapping contenus dans data/mapping_files, créés dans le cadre du mémoire de master.
+2. le script class_injection.py réinjecte les données de rôles dans le fichier original
+3. le script wer_processing.py calcule les WER au niveau de l'épisode (fichier wer_by_episode.csv), granularité choisie pour notre étude.
+
+Le script asr_pred_bias.R contient le code pour les analyses statistiques et les représentations graphiques contenues dans le manuscrit de thèse.

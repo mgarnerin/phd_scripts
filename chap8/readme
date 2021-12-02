@@ -1,0 +1,16 @@
+Expériences du chapitre 8 : Maîtriser la répartition du genre
+de la thèse de Mahault GARNERIN
+
+Les différents dossiers représentent les différentes sous-expériences réalisées dans le cadre de ce travail de thèse. L'objectif étant de comprendre voire de quantifier l'impact de la variation de la représentation des catégories de genre à l'apprentissage sur les performances d'un systèmes d'ASR E2E (entraîné grâce à l'outil ESPnet de Watanabe et al, (2018)).
+
+Le dossier exp_var_wper regroupe les données et le script d'analyse pour nos 3 modèles dans lesquels nous avons fait varier le pourcentage de livres lus par des femmes dans le corpus d'apprentissage.
+
+Le dossier exp_var_mseed regroupe les données et le script d'analyse pour nos 3 modèles dans lesquels nous avons fait varier la graine aléatoire du modèle.
+
+Le dossier exp_var_dseed regroupe les données et le script d'analyse pour nos 3 modèles (+2 voir la clarification expérimentale dans le manuscrit) dans lesquels nous avons fait varier la graine aléatoire de selection des données. L'ensemble des ces systèmes contiennent une représentation paritaire des catégories de genre dans leurs corpus d'apprentissage.
+
+Le dossier exp_mono regroupe les données et le script d'analyse pour nos 2 modèles mono-genre.
+
+Le script run.sh est le script utilisé pour l'entraînement des différents modèles. Il correspond à la version distribuée sur le GitHub ESPnet pour le corpus Librispeech.
+
+Enfin, le script python process_output.py est un script ad-hoc de pré-traitement des données à partir des fichiers result.wrd.txt obtenus via ESPnet. Il utilise notamment une gendermap (créée également à partir des différents fichiers spk2gender).
